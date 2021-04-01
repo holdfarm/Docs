@@ -1,8 +1,11 @@
-## HOLD FARM DOCUMENTATION
+## HOLD FARM
 
-You can use the [editor on GitHub](https://github.com/holdfarm/Docs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+HOLD token generates passive income by allocating assets to other crypto farms, combining and picking best farming vaults. You just need to hold the HOLD TOKEN to get profits, cutting messy process of STAKING and doing complex operations.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### In Short
+
+HOLD token is backed by best APY asset from autofarm.network 
+
 
 ### Markdown
 
