@@ -29,3 +29,6 @@ https://bscscan.com/address/0x220c7030e0c0fc6239233b452d56021076684b56#writeProx
 
 Calling harvest will execute logic for Hold.Farm, You can call any of these functions for yourself, whole farm is open to public and anyone can excute farm functions.
 
+GAS : 5 GWEI
+GASLIMIT : 900000
+
