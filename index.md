@@ -10,13 +10,13 @@ In Short, HOLD token is backed by best APY asset from autofarm.network
 
 ## Fees
 
-1. 2% on transfer ( Burned )
+1. 3% on transfer ( Burned )
 2. 2% on farming profits ( Developers )
 
 
 ## Smart Contracts
 
-1. Token (0x593BDBAF7e65c51f5a35761cc688245a560E6a02)
+1. Token (0xb5e1f0264e249a593019f3893bd2272fb79bab05)
 2. Controller (0x220c7030e0c0fc6239233b452d56021076684b56)
 3. Farm (0x0895196562c7868c5be92459fae7f877ed450452)
 
