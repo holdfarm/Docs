@@ -36,3 +36,26 @@ Calling harvest will execute logic for Hold.Farm, You can call any of these func
 GAS : 5 GWEI
 GASLIMIT : 900000
 
+
+
+
+
+
+# FAQ
+
++ Developer Fees
+
+Developer fee is 2% on generated profits, this goes to our tresury to ensure that we can cover development/upgrade costs.
+
++ Token Transfer Burn
+
+Everytime someone transfers $HOLD token, 2% of the total transfer amount gets burned ( Deflating The Supply).
+
+
++ Contribute
+
+Please edit our code on github and submit a pull request, someone from team will merge your commit.
+
++ Blockchain $HOLD.FARM Use
+
+Our Codebase is based on Binance Smart Chain ( BSC ), please use supported wallets ( Google For More Details).
