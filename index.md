@@ -14,8 +14,6 @@ In Short, HOLD token is backed by best APY asset from autofarm.network
 2. 2% on farming profits ( Developers )
 
 
-
-
 ## Smart Contracts
 
 | Name        | Address           |
