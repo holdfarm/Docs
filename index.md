@@ -49,7 +49,7 @@ Developer fee is 2% on generated profits, this goes to our tresury to ensure tha
 
 + Token Transfer Burn
 
-Everytime someone transfers $HOLD token, 2% of the total transfer amount gets burned ( Deflating The Supply).
+Everytime someone transfers $HOLD token, 3% of the total transfer amount gets burned ( Deflating The Supply).
 
 
 + Contribute
