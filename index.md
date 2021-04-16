@@ -11,11 +11,11 @@ In Short, HOLD token is backed by best APY asset from autofarm.network
  
  + __AutoFarm__ - AutoFarm is yet another yield optimizer on the Binance Smart Chain and Huobi ECO chain with currently more than US$1b total value locked (TVL) into its farming pools.
  
- + __HOLD__ -HOLD token generates passive income by allocating assets to other crypto farms, combining and picking the best farming vaults. You just need to hold the HOLD TOKEN to get profits, cutting the messy process of STAKING and doing complex operations.
+ + __HOLD__ - HOLD token generates passive income by allocating assets to other crypto farms, combining and picking the best farming vaults. You just need to hold the HOLD TOKEN to get profits, cutting the messy process of STAKING and doing complex operations.
  
- + __HOLDERS__ -Holders are the ones who Hold $HOLD tokens
+ + __HOLDERS__ - Holders are the ones who Hold $HOLD tokens
 
-  + __APR__ ( Annual Percentage Rate )-APR is the full rate you will be charged throughout your Farming period
+  + __APR__ ( Annual Percentage Rate ) - APR is the full rate you will be charged throughout your Farming period
 
 
  
