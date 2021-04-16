@@ -1,6 +1,6 @@
 # HOLD FARM
 
-__HOLD__ token generates passive income by allocating assets to other crypto farms, combining and picking best farming vaults. You just need to hold the HOLD TOKEN to get profits, cutting messy process of STAKING and doing complex operations.
+__HOLD__ token generates passive income by allocating assets to other crypto farms, combining and picking best farming vaults. You just need to hold the __HOLD TOKEN__ to get profits, cutting messy process of STAKING and doing complex operations.
 
 ![alt text](1.png "Overview")
 
