@@ -24,9 +24,9 @@ In Short, __HOLD__ token is backed by best APY asset from autofarm.network
  
  1. 3% of __HOLD__ is burned on every transaction.
  
- 2. Supply increases by 12.96 __HOLD__.
+ 2. Supply increases by __12.96 HOLD__.
  
- 3. Epoch Time is 6 hours
+ 3. Epoch Time is __6 hours__
  
  
 ## Theory :
