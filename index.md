@@ -4,7 +4,7 @@ __HOLD__ token generates passive income by allocating assets to other crypto far
 
 ![alt text](1.png "Overview")
 
-In Short, HOLD token is backed by best APY asset from autofarm.network 
+In Short, __HOLD__ token is backed by best APY asset from autofarm.network 
 
  
 ## Definitions :
