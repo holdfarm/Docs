@@ -11,7 +11,7 @@ In Short, __HOLD__ token is backed by best APY asset from autofarm.network
  
  + __AutoFarm__ - AutoFarm is yet another yield optimizer on the Binance Smart Chain.
  
- + __HOLD__ - HOLD token generates passive income by allocating assets to other crypto farms, combining and picking the best farming vaults. You just need to hold the HOLD TOKEN to get profits, cutting the messy process of STAKING and doing complex operations.
+ + __HOLD__ - HOLD = Tokens 
  
  + __HOLDERS__ - Holders are the ones who Hold $HOLD tokens
 
