@@ -6,10 +6,6 @@ HOLD token generates passive income by allocating assets to other crypto farms, 
 
 In Short, HOLD token is backed by best APY asset from autofarm.network 
 
-
-
-# How does it work?
- 
  
 ## Definitions :
  
@@ -26,7 +22,7 @@ In Short, HOLD token is backed by best APY asset from autofarm.network
 
 ## Key Aspects :
  
- 1. 3% of Hold is burned on every transaction.
+ 1. 3% of HOLD is burned on every transaction.
  
  2. Supply increases by 12.96 HOLD.
  
@@ -35,7 +31,7 @@ In Short, HOLD token is backed by best APY asset from autofarm.network
  
 ## Theory :
  
-  Since _HOLD_ Token is deflationary ( 1.1 ), we need to inflate it in some way and use that inflation (1.2) for farming.Every Epoch New HOLD are minted and then swapped to the best-performing asset on $AUTOFARM ( or similar farms )
+  Since HOLD Token is deflationary ( 1.1 ), we need to inflate it in some way and use that inflation (1.2) for farming.Every Epoch New HOLD are minted and then swapped to the best-performing asset on $AUTOFARM ( or similar farms )
  
  Example Assets APR on Autofarm :
  
