@@ -35,11 +35,7 @@ In Short, HOLD token is backed by best APY asset from autofarm.network
  
 ## Theory :
  
- + Since HOLD Token is deflationary ( 1.1 ), we need to inflate it in some way and use that inflation (1.2) for farming.
- 
- 
- 
- + Every Epoch New HOLD are minted and then swapped to the best-performing asset on $AUTOFARM ( or similar farms )
+  Since _HOLD_ Token is deflationary ( 1.1 ), we need to inflate it in some way and use that inflation (1.2) for farming.Every Epoch New HOLD are minted and then swapped to the best-performing asset on $AUTOFARM ( or similar farms )
  
  Example Assets APR on Autofarm :
  
@@ -48,11 +44,7 @@ In Short, HOLD token is backed by best APY asset from autofarm.network
  + USDT 30% APR
  
  
- + Now since CAKE has Highest APR, it's the best-returning Asset to invest in, Now CONTROLLER will swap HOLD generated in (1.2) to CAKE.
- 
- + Now the controller has CAKE and it will Invest them in Autofarm which will start generating returns.
- 
- + Now With time our asset grows
+  Now since CAKE has Highest APR, it's the best-returning Asset to invest in, Now controller will swap HOLD generated in (1.2) to CAKE. Now the controller has CAKE and it will Invest them in Autofarm which will start generating returns With time our asset grows
  
 ## Example :
  
