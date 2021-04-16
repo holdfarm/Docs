@@ -8,6 +8,63 @@ In Short, HOLD token is backed by best APY asset from autofarm.network
 
 
 
+# How does it work?
+ 
+ 
+ ## Definitions :
+ 
+ + AutoFarm - AutoFarm is yet another yield optimizer on the Binance Smart Chain and Huobi ECO chain with currently more than US$1b total value locked (TVL) into its farming pools.
+ 
+ + HOLD -HOLD token generates passive income by allocating assets to other crypto farms, combining and picking the best farming vaults. You just need to hold the HOLD TOKEN to get profits, cutting the messy process of STAKING and doing complex operations.
+ 
+ + HOLDERS -Holders are the ones who Hold $HOLD tokens
+
+  + APR( Annual Percentage Rate )-APR is the full rate you will be charged throughout your Farming period
+
+
+ 
+
+ ## Key Aspects :
+ 
+ 1. 3% of Hold is burned on every transaction.
+ 
+ 2. Supply increases by 12.96 HOLD.
+ 
+ 3. Epoch Time is 6 hours
+ 
+ 
+ ## Theory :
+ 
+ + Since HOLD Token is deflationary ( 1.1 ), we need to inflate it in some way and use that inflation (1.2) for farming.
+ 
+ 
+ 
+ + Every Epoch New HOLD are minted and then swapped to the best-performing asset on $AUTOFARM ( or similar farms )
+ 
+ Example Assets APR on Autofarm :
+ 
+ + BNB 60% APR 
+ + CAKE 300% APR
+ + USDT 30% APR~~
+ 
+ 
+ + Now since CAKE has Highest APR, it's the best-returning Asset to invest in, Now CONTROLLER will swap HOLD generated in (1.2) to CAKE.
+ 
+ + Now the controller has CAKE and it will Invest them in Autofarm which will start generating returns.
+ 
+ + Now With time our asset grows
+ 
+ Example :
+ 
+ We invested 10000 CAKE and after 6 hours its 10040 CAKE
+ 
+ these 40 CAKE interest that we generated will be used to BUY BACK HOLD elevating price for all HOLDERS 
+ 
+ 
+ This makes it a invite loop that keeps buying back HOLD TOKEN and elevating its value over time
+
+
+
 ## Fees
 
 1. 3% on transfer ( Burned )
