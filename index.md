@@ -11,7 +11,7 @@ In Short, HOLD token is backed by best APY asset from autofarm.network
 # How does it work?
  
  
- ## Definitions :
+## Definitions :
  
  + AutoFarm - AutoFarm is yet another yield optimizer on the Binance Smart Chain and Huobi ECO chain with currently more than US$1b total value locked (TVL) into its farming pools.
  
@@ -24,7 +24,7 @@ In Short, HOLD token is backed by best APY asset from autofarm.network
 
  
 
- ## Key Aspects :
+## Key Aspects :
  
  1. 3% of Hold is burned on every transaction.
  
@@ -33,7 +33,7 @@ In Short, HOLD token is backed by best APY asset from autofarm.network
  3. Epoch Time is 6 hours
  
  
- ## Theory :
+## Theory :
  
  + Since HOLD Token is deflationary ( 1.1 ), we need to inflate it in some way and use that inflation (1.2) for farming.
  
@@ -45,7 +45,7 @@ In Short, HOLD token is backed by best APY asset from autofarm.network
  
  + BNB 60% APR 
  + CAKE 300% APR
- + USDT 30% APR~~
+ + USDT 30% APR
  
  
  + Now since CAKE has Highest APR, it's the best-returning Asset to invest in, Now CONTROLLER will swap HOLD generated in (1.2) to CAKE.
@@ -54,14 +54,9 @@ In Short, HOLD token is backed by best APY asset from autofarm.network
  
  + Now With time our asset grows
  
- Example :
+## Example :
  
- We invested 10000 CAKE and after 6 hours its 10040 CAKE
- 
- these 40 CAKE interest that we generated will be used to BUY BACK HOLD elevating price for all HOLDERS 
- 
- 
- This makes it a invite loop that keeps buying back HOLD TOKEN and elevating its value over time
+ + We invested 10000 CAKE and after 6 hours its 10040 CAKE these 40 CAKE interest that we generated will be used to buy back HOLD elevating price for all HOLDERS.This makes it a invite loop that keeps buying back HOLD TOKEN and elevating its value over time
 
 
 
@@ -73,13 +68,13 @@ In Short, HOLD token is backed by best APY asset from autofarm.network
 
 ## Smart Contracts
 
-| Name        | Address           |
-| ------------- |:-------------:|
-| Token         | 0xb5e1f0264e249a593019f3893bd2272fb79bab05      |
-| Sale Contract | 0xA1449325748A6774a3986688d44d39373982D2f1      |
-| Controller    | 0x220c7030e0c0fc6239233b452d56021076684b56      |
-| Farm          | 0x0895196562c7868c5be92459fae7f877ed450452      |
-| Token Lock    | 0x156489f4A8c30e2D8FAA24e3f7aAaE5FC0151B06      |
+| Name          |                  Address                   |
+| ------------- | :----------------------------------------: |
+| Token         | 0xb5e1f0264e249a593019f3893bd2272fb79bab05 |
+| Sale Contract | 0xA1449325748A6774a3986688d44d39373982D2f1 |
+| Controller    | 0x220c7030e0c0fc6239233b452d56021076684b56 |
+| Farm          | 0x0895196562c7868c5be92459fae7f877ed450452 |
+| Token Lock    | 0x156489f4A8c30e2D8FAA24e3f7aAaE5FC0151B06 |
 
 
 ## Calling Funtions yourself
