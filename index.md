@@ -83,19 +83,19 @@ GASLIMIT : 900000
 
 # FAQ
 
-+ Developer Fees
++ __Developer Fees__
 
 Developer fee is 2% on generated profits, this goes to our tresury to ensure that we can cover development/upgrade costs.
 
-+ Token Transfer Burn
++ __Token Transfer Burn__
 
 Everytime someone transfers $HOLD token, 3% of the total transfer amount gets burned ( Deflating The Supply).
 
 
-+ Contribute
++ __Contribute__
 
 Please edit our code on github and submit a pull request, someone from team will merge your commit.
 
-+ Blockchain $HOLD.FARM Use
++ __Blockchain $HOLD.FARM Use__
 
 Our Codebase is based on Binance Smart Chain ( BSC ), please use supported wallets ( Google For More Details).
