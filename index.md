@@ -79,7 +79,7 @@ In Short, HOLD token is backed by best APY asset from autofarm.network
 | Sale Contract | 0xA1449325748A6774a3986688d44d39373982D2f1      |
 | Controller    | 0x220c7030e0c0fc6239233b452d56021076684b56      |
 | Farm          | 0x0895196562c7868c5be92459fae7f877ed450452      |
-
+| Token Lock    | 0x156489f4A8c30e2D8FAA24e3f7aAaE5FC0151B06      |
 
 
 ## Calling Funtions yourself
