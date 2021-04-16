@@ -11,7 +11,7 @@ In Short, __HOLD__ token is backed by best APY asset from autofarm.network
  
  + __AutoFarm__ - AutoFarm is yet another yield optimizer on the Binance Smart Chain.
  
- + __HOLD__ - HOLD = Tokens 
+ + __HOLD__ -  Tokens 
  
  + __HOLDERS__ - Holders are the ones who Hold $HOLD tokens
 
@@ -31,7 +31,7 @@ In Short, __HOLD__ token is backed by best APY asset from autofarm.network
  
 ## Theory :
  
-  Since __HOLD__ Token is deflationary ( 1.1 ), we need to inflate it in some way and use that inflation (1.2) for farming.Every Epoch New __HOLD__ are minted and then swapped to the best-performing asset on $AUTOFARM ( or similar farms )
+  Since __HOLD__ Token is deflationary ( 1.1 ), we need to inflate it in some way and use that inflation (1.2) for farming.Every __Epoch__ New __HOLD__ are minted and then swapped to the best-performing asset on $AUTOFARM ( or similar farms )
  
  Example Assets APR on Autofarm :
  
@@ -44,7 +44,7 @@ In Short, __HOLD__ token is backed by best APY asset from autofarm.network
  
 ## Example :
  
- + We invested 10000 CAKE and after 6 hours its 10040 CAKE these 40 CAKE interest that we generated will be used to buy back __HOLD__ elevating price for all __HOLDERS__.This makes it a invite loop that keeps buying back __HOLD__ TOKEN and elevating its value over time
+ + We invested 10000 CAKE and after 6 hours its 10040 CAKE these 40 CAKE interest that we generated will be used to buy back __HOLD__ elevating price for all __HOLDERS__.This makes it a invite loop that keeps buying back __HOLD TOKEN__ and elevating its value over time
 
 
 
