@@ -59,25 +59,8 @@ We invested 10000 CAKE and after 6 hours its 10040 CAKE these 40 CAKE interest t
 | Name          |                  Address                   |
 | ------------- | :----------------------------------------: |
 | Token         | 0xb5e1f0264e249a593019f3893bd2272fb79bab05 |
-| Sale Contract | 0xA1449325748A6774a3986688d44d39373982D2f1 |
 | Controller    | 0x220c7030e0c0fc6239233b452d56021076684b56 |
 | Farm          | 0x0895196562c7868c5be92459fae7f877ed450452 |
-| Token Lock    | 0x156489f4A8c30e2D8FAA24e3f7aAaE5FC0151B06 |
-
-
-## Calling Funtions yourself
-
-https://bscscan.com/address/0x220c7030e0c0fc6239233b452d56021076684b56#writeProxyContract
-
-![](farm.png "Farm")
-
-Calling harvest will execute logic for Hold.Farm, You can call any of these functions for yourself, whole farm is open to public and anyone can excute farm functions.
-
-GAS : 5 GWEI
-GASLIMIT : 900000
-
-
-
 
 
 
