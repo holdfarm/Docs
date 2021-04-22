@@ -40,11 +40,11 @@ In Short, __HOLD__ token is backed by best APY asset from autofarm.network
  + USDT 30% APR
  
  
-  Now since CAKE has Highest __APR__, it's the best-returning Asset to invest in, Now controller will swap __HOLD__ generated in (1.2) to CAKE. Now the controller has __CAKE__ and it will Invest them in __Autofarm__ which will start generating returns With time our asset grows
+Now since CAKE has Highest __APR__, it's the best-returning Asset to invest in, Now controller will swap __HOLD__ generated in (1.2) to CAKE. Now the controller has __CAKE__ and it will Invest them in __Autofarm__ which will start generating returns With time our asset grows
  
 ## Example :
  
- + We invested 10000 CAKE and after 6 hours its 10040 CAKE these 40 CAKE interest that we generated will be used to buy back __HOLD__ elevating price for all __HOLDERS__.This makes it a invite loop that keeps buying back __HOLD TOKEN__ and elevating its value over time
+We invested 10000 CAKE and after 6 hours its 10040 CAKE these 40 CAKE interest that we generated will be used to buy back __HOLD__ elevating price for all __HOLDERS__.This makes it a invite loop that keeps buying back __HOLD TOKEN__ and elevating its value over time
 
 
 
