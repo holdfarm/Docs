@@ -44,7 +44,7 @@ Now since CAKE has Highest __APR__, it's the best-returning Asset to invest in, 
  
 ## Example :
  
-We invested 10000 CAKE and after 6 hours its 10040 CAKE these 40 CAKE interest that we generated will be used to buy back __HOLD__ elevating price for all __HOLDERS__.This makes it a invite loop that keeps buying back __HOLD TOKEN__ and elevating its value over time
+We invested 10000 CAKE and after 6 hours its 10040 CAKE these 40 CAKE interest that we generated will be used to buy back __HOLD__ elevating price for all __HOLDERS__.This makes it a infinite loop that keeps buying back __HOLD TOKEN__ and elevating its value over time
 
 
 
