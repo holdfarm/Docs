@@ -82,3 +82,7 @@ Please edit our code on github and submit a pull request, someone from team will
 + __Blockchain $HOLD.FARM Use__
 
 Our Codebase is based on Binance Smart Chain ( BSC ), please use supported wallets ( Google For More Details).
+
+# Video
+
+<video width="100%" height="100%" controls><source src="http://ipfs.io/ipfs/QmRZM5t69FMShosqwDHMTsF3RiJkBBGTBbj4XDmPdU9HgZ" type="video/mp4"></video>
